@@ -35,8 +35,8 @@ function rotcol_movie(file,fps)
 
 % Copyright: Vicky Froyen
 % Author: Vicky Froyen
-% Date: 2010/10/01 18:23:52
-% Git commit: 
+% Date: Mon May 5 22:47:11 2014 -0400
+% Git commit: 8be6445
 
 % This code was used to generate the stimuli for the following papers:
 % - Froyen, V., Singh, M., & Feldman, J. (2013). rotcol columns: relating
