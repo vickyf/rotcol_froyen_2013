@@ -29,8 +29,7 @@ function rotcol_view(file,fps)
 
 % Copyright: Vicky Froyen
 % Author: Vicky Froyen
-% Date: Mon May 5 22:47:11 2014 -0400
-% Git commit: 8be6445
+% Date: Tue Apr 21 10:15:37 2015 -0400
 
 % This code was used to generate the stimuli for the following papers:
 % - Froyen, V., Singh, M., & Feldman, J. (2013). rotcol columns: relating
